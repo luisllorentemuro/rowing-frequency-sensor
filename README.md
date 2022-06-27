@@ -1,1 +1,1 @@
-# rowing-frequency-sensor
+# strokes-per-minute-sensor
